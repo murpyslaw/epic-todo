@@ -1,0 +1,30 @@
+{
+  "name": "epic-todo",
+  "version": "1.0.0",
+  "description": "todos done right",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/murpyslaw/epic-todo.git"
+  },
+  "keywords": [
+    "todo",
+    "epic",
+    "heroic",
+    "super"
+  ],
+  "author": "Radoslav Ivanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/murpyslaw/epic-todo/issues"
+  },
+  "homepage": "https://github.com/murpyslaw/epic-todo#readme",
+  "dependencies": {
+    "@types/express": "^4.0.37",
+    "express": "^4.15.4",
+    "typescript": "^2.5.2"
+  }
+}
